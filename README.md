@@ -6,7 +6,7 @@
 
 <!-- <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=400px src="C:\Users\lenovo\Pictures\Screenshots\Screenshot (225).png" alt="Project logo"></a>
+ <img width=500px height=400px src="./perse/arun" alt="Project logo"></a>
 </p> -->
 
 
