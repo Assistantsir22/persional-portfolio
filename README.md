@@ -4,10 +4,10 @@
 
 # project-documentation
 
-<p align="center">
+<!-- <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
+</p> -->
 
 
 <h3 align="center">Swag India</h3>
