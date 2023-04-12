@@ -90,7 +90,7 @@ Add additional notes about how to deploy this on a live system.
 
 
 ## ✍️ Authors <a name = "authors"></a>
-- [Arun Verma](https://github.com/Assistantsir22/persional-portfolio.git) - FSD
+- [Arun Verma](https://github.com/Assistantsir22/persional-portfolio.git)
 
 See also the list of [contributors](https://github.com/Assistantsir22/persional-portfolio.git) who participated in this project.
 
