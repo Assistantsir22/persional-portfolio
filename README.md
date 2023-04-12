@@ -10,7 +10,7 @@
 </p> -->
 
 
-<h3 align="center">Swag India</h3>
+<h3 align="center">persional portfolio</h3>
 
 ---
 
@@ -30,7 +30,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
+Fully Functional persional blog website. The technologies used in this project are HTML, CSS, Vanilla JavaScript. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -82,7 +82,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./swagindiaflowchart.png)
+![bg width:1000px](https://soapchu.files.wordpress.com/2011/01/flowchart.jpg)
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
