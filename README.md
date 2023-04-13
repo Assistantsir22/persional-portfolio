@@ -6,7 +6,7 @@
 
 <!-- <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=400px src="https://themewagon.com/wp-content/uploads/2020/05/jony-1.jpg" alt="Project logo"></a>
+ <img width=500px height=400px src="./blogs/images/self" alt="Project logo"></a>
 </p> -->
 
 
